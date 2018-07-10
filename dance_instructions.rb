@@ -1,3 +1,4 @@
+
 # Code your methods below
 
 def starting_stance
@@ -12,7 +13,7 @@ end
 
 def skip_step(starting_foot)
   puts "lower #{starting_foot} to the ground"
-  puts "bounce #{starting_foot} foot back up slightly, kicking it a few inches back"
+  puts "Bounce #{starting_foot} foot back up slightly, kicking it a few inches back"
   puts "Briefly raise the oppposite foot, then the #{starting_foot} twice more!"
 end
 
