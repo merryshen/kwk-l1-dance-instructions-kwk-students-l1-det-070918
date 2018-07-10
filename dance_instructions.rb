@@ -33,7 +33,7 @@ def lasso
 end
 
 def bust_a_move
-  puts "be cool and be snazzy ;)"
+  puts "Be cool and be snazzy!)"
 end
 
 def gangnam_style 
